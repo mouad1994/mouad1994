@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mouad1994
-- 👀 I’m interested in Python, Machine Learning, Deep Learning
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Backend services, building APIs and full stack apps
+- 🌱 I'm a huge fan of Golang ecosystem 
 - 💞️ I’m looking to collaborate on open-source projects
 
 <!---
